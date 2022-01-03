@@ -1,0 +1,6 @@
+framework module Pods_Sharing_Toys {
+  umbrella header "Pods-Sharing Toys-umbrella.h"
+
+  export *
+  module * { export * }
+}
